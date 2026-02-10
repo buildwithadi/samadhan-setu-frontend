@@ -89,7 +89,7 @@ Backend:
 
 #
 
-git clone \[https://github.com/your-username/samadhan-setu.git\](https://github.com/buildwithadi/samadhan-setu-frontend.git)  
+git clone \[https://github.com/buildwithadi/samadhan-setu-frontend\](https://github.com/buildwithadi/samadhan-setu-frontend)  
 cd samadhan-setu
 
 ### 2\. Backend Setup
